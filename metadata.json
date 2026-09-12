@@ -1,0 +1,6 @@
+{
+  "name": "School Bus Tracker",
+  "description": "Real-time school bus tracking app with location updates and automated parent notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
